@@ -22,7 +22,7 @@ This Snake game and Pacman game is made using nasm in assembly language, on 8086
 
 Snapshots showcasing different aspects of your project.
 
-## Sanditory | SnapShots
+## Snake and Pacman game | VIDEOS
 
 ### SNAKE GAME VIDEO
 
